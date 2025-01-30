@@ -1,8 +1,9 @@
 /*
-Theme Name: Krusty Krab
+Theme Name: Spongebob Squarepants
+Template: burrito-mania
 Author: Andrea Godsey
-Description: This theme replicates the iconic colors of the Krusty Krab from the Nickelodeon tv show, Spongebob Squarepants.
 Version: 0.1
+Description: A theme of the adorable little sponge's colors. 
 */
 
 * {
@@ -20,12 +21,12 @@ Version: 0.1
   }
 
   body {
-    background-color: #dcccb6;
+    background-color: #B2783B;
   }
 
   nav {
     height: 50px;
-    background-color: #df9a60;
+    background-color: #fff56c;
   }
 
   nav ul {

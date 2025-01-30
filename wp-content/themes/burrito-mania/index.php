@@ -18,7 +18,7 @@
         </ul>
     </nav>
 
-    <h1>Burrito Mania</h1>
+    <h1>Krusty Krab Theme</h1>
 
     <?php
     if (have_posts()) :
