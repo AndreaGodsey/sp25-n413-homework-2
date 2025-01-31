@@ -1,6 +1,6 @@
 /*
 Theme Name: Spongebob Squarepants
-Template: burrito-mania
+Template: Eugene-Krabs
 Author: Andrea Godsey
 Version: 0.1
 Description: A theme of the adorable little sponge's colors. 
@@ -40,4 +40,26 @@ Description: A theme of the adorable little sponge's colors.
 
   nav ul li {
     margin-right: 20px;
+  }
+
+  h1{
+    color: #EBDF3D;
+  }
+
+  h4 {
+    color: #EBDF3D;
+    font-size: 25px;
+    text-decoration: underline;
+    margin-bottom: 5px;
+  }
+
+  .topParagraph{
+    font-style: italic;
+    margin-bottom: 15px;
+    font-size: 25px;
+  }
+
+  p {
+    margin-top: 5px;
+    font-size: 18px;
   }

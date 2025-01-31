@@ -18,7 +18,8 @@
         </ul>
     </nav>
 
-    <h1>Krusty Krab Theme</h1>
+    <h1>Eugene Krabs and Spongebob Themes</h1>
+    <p class="topParagraph">This theme allows user to express their love for the hit tv show, especially if their favorite character is Eugene Krabs! It's especially nice, because this theme is free! You also get to become an eager frycook with the Spongebob them! (Disclaimer: does not actually make you a fry cook) Enjoy!</p>
 
     <?php
     if (have_posts()) :
