@@ -3,7 +3,7 @@ Theme Name: Spongebob Squarepants
 Template: Eugene-Krabs
 Author: Andrea Godsey
 Version: 0.1
-Description: A theme of the adorable little sponge's colors. 
+Description: A theme of the adorable little sponge's colors from the hit Nickelodeon tv show, Sponegebob Squarepants. 
 */
 
 * {
@@ -36,6 +36,7 @@ Description: A theme of the adorable little sponge's colors.
     align-items: center;
     justify-content: center;
     list-style: none;
+    color: #E53636;
   }
 
   nav ul li {

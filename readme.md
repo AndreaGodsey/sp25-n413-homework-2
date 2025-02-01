@@ -1,4 +1,4 @@
-# Assignment 2: WordPress Site Setup
+# Assignment 2: WordPress Themes
 
 ### This Week's Topic Notes and Lessons Learned
 
